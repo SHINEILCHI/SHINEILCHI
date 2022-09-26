@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHINEILCHI
 - 👀 I’m interested in music, anime, and video games.
 - 🌱 I’m currently learning web development under Udemy classes.
-- 💞️ I’m looking to collaborate on web development projects.
+- 💞️ I’m looking to collaborate on web development projects but more so work as a Data Engineer.
 - 📫 How to reach me: neilpatrickelison.npe@gmail.com
 
 <!---
